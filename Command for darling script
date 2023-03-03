@@ -1,0 +1,33 @@
+🅰 Premium Script Commends
+__
+
+apt update
+
+apt upgrade
+
+apt install git
+
+apt install python
+
+
+pip install colorama
+
+
+pip install telethon
+
+cd /storage/emulated/0/A
+
+cd A
+
+ls
+
+
+python login.py
+
+python export.py
+
+python jaat.py
+
+python add.py
+
+python single.py
